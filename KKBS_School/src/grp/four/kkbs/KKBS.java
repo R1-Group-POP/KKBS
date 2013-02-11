@@ -70,7 +70,7 @@ public class KKBS {
 
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new HovedMenuGui(kTRGui, koretojHandler, kLRGUI, korelaererHandler, bKGUI, dagsHandler, tKGUI, tilknytKoretojHandler).setVisible(true);
+                //new HovedMenuGui(kTRGui, koretojHandler, kLRGUI, korelaererHandler, bKGUI, dagsHandler, tKGUI, tilknytKoretojHandler).setVisible(true);
             }
         });
     }
